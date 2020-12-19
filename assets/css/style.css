@@ -56,6 +56,12 @@ html {
     scrollbar-3dlight-color: #2a607c;
 }
 
+/* -- edited the navigation -- */
+.navigation {
+    float: left;
+    padding-right: 30px;
+}
+
 .hero {
     height: 800px;
     width: 100%;
@@ -64,6 +70,7 @@ html {
     background-size: cover;
     background-position: center;
 }
+
 
 .float-left {
     float: left;
