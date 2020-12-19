@@ -101,19 +101,12 @@ html {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+/* -- Optimizing the code for benefit -- */
+.benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
 }
 /* Optimizing the layout of the h3 code */
 h3 {
@@ -121,20 +114,8 @@ h3 {
     text-align: center;
 }
 
-/* Optimized the layout of the img code */
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
+/* Consolidated img classes */
+.benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
